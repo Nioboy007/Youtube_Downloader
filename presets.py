@@ -12,7 +12,7 @@ Search inline facility, or paste the YouTube link to start downloading.
 
 JOIN <a href='https://t.me/BioHazard_Bots'>Updates</a> | Repo <a href='https://github.com/Rexinazor/Youtube_Downloader'>LINK</a>   
     """
-    WELCOME_MSG = "Hello... {}\nI can download YouTube Videos.\nSearch Inline- select and download."
+    WELCOME_MSG = "Hello... \\[{}\\]\\nI can download YouTube Videos.\\nSearch Inline- select and download."
     OPTIONS_TXT = "I can download YouTube Videos.\nSearch Inline- select and download."
     RESULTS_TXT = "👀 Results:"
     NO_RESULTS = "❌ No Results:"
